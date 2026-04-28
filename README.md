@@ -56,4 +56,3 @@ Firebase rules are set in test mode for development purposes.
   Author
   - Sreesai Charani Repaka
 
-## 👩‍💻 AuthoYour Name
