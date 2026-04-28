@@ -53,5 +53,7 @@ Firebase rules are set in test mode for development purposes.
 - Implement user authentication
 - Improve UI design
 
-## 👩‍💻 Author
-Your Name
+  Author
+  - Sreesai Charani Repaka
+
+## 👩‍💻 AuthoYour Name
