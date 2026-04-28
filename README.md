@@ -1,3 +1,4 @@
+OUTPUT SCREENSHOT:
 <img width="1877" height="887" alt="image" src="https://github.com/user-attachments/assets/301fd535-33d5-40b9-bb5c-4bcf52955c69" />
 
 
@@ -25,10 +26,6 @@ mall-stall-management/
 ├── index.html
 ├── style.css
 └── script.js
-
-
- 🖼️ Output Screenshot
-![Project Screenshot](<img width="1877" height="887" alt="image" src="https://github.com/user-attachments/assets/076ee843-b3cd-427d-95fc-aaca0fafdb00" />
 
 
  🔥 How It Works
